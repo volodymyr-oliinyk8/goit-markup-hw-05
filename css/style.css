@@ -143,12 +143,6 @@ a {
 .hero {
   color: var(--primary-white-color);
   background-color: #2f303a;
-
-  font-weight: 900;
-  font-size: 44px;
-  line-height: 1.36;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
   text-align: center;
 }
 .container-hero {
@@ -171,6 +165,12 @@ a {
 .hero h1 {
   margin-top: 0;
   margin-bottom: 0;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
 }
 .hero-link {
   margin-top: 30px;
